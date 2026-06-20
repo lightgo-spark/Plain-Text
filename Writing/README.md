@@ -99,3 +99,4 @@ cargo build --release
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+lightgo1230@gmail.com
