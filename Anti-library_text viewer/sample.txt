@@ -1,0 +1,46 @@
+# Anti-library sample
+
+Chapter 1  The Unread Shelf
+
+A private library is not an ornament. The shelf of books you have not read is
+the useful half of it: it is the part that still has something to tell you, and
+the part that keeps the size of what you do not know in front of you. Paragraph 1.
+
+Read books are behind you; unread ones are questions that have not been asked
+yet. A library grows more valuable as the unread portion grows, which is the
+opposite of how most people are taught to think about shelves. Paragraph 2.
+
+The longer a paragraph runs, the more there is for a typesetter to do with it —
+where to break, how far to stretch the spaces, whether tightening this line will
+pay for itself two lines further down. Paragraph 3.
+
+This one is here to be selected with the mouse, marked with `1` through `4`, and
+copied with Ctrl+C, so that what comes back out of the clipboard can be compared
+with what is on the page. Paragraph 4.
+
+And this one is long enough to wrap several times in a narrow column, which is
+what the measure setting changes. Drag the measure and watch the breaks move.
+Paragraph 5.
+
+Chapter 2  A Wider Column
+
+The library is a device for confronting what one does not yet know; the unread
+shelf is the useful half. Paragraph 1 of the sample text, long enough to wrap
+across several lines in a narrow column.
+
+The library is a device for confronting what one does not yet know; the unread
+shelf is the useful half. Paragraph 2 of the sample text, long enough to wrap
+across several lines in a narrow column.
+
+The library is a device for confronting what one does not yet know; the unread
+shelf is the useful half. Paragraph 3 of the sample text, long enough to wrap
+across several lines in a narrow column.
+
+An extraordinarily long word is useful here for testing hyphenation:
+incomprehensibilities, and antidisestablishmentarianism after it, both of which
+have to break at their syllables rather than run past the measure. Paragraph 4.
+
+Chapter 3  The End of the Sample
+
+That is the whole of it. Press `b` to leave a bookmark, `c` to open the
+contents, `/` to search, and `t` to change the theme.
